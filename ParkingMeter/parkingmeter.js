@@ -17,7 +17,7 @@
 // Valid coins are: 0.05cts / 0.10cts / 0.20cts / 0.50cts / 1€ / 2€	-- DONE
 // Wrong inserted coins are returned	-- DONE
 // Give money back when it's free 	-- DONE
-// Give a ticket when completing order
+// Give a ticket when completing order	-- DONE
 
 'use strict';
 
